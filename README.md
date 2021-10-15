@@ -4,5 +4,5 @@ As part of the udacity.com Data Scientist nanodegree, this is project one of the
 In this analysis I employ the CRISP-DM process to answer the following three questions:
 
 1. Does Manhattan sales trend differently than other boroughs, and if so, how? 
-2. Are older buildings selling better than newer buildings?
+2. Are older buildings selling better than newer buildings based on location?
 3. Are bigger spaces more likely to sell in any particular neighborhood?
