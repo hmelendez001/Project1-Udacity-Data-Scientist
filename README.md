@@ -3,6 +3,6 @@ As part of the udacity.com Data Scientist nanodegree, this is project one of the
 
 In this analysis I employ the CRISP-DM process to answer the following three questions:
 
-1. Does Manhattan sales trend differently than other boroughs, and if so, how? 
+1. Does Manhattan or the borough in general have any effect in predicting the sales price of a property? 
 2. Are older buildings selling better than newer buildings based on location?
-3. Are bigger spaces more likely to sell in any particular neighborhood?
+3. Is there a correlation in sales with time of year and square footage for any particular borough? For exmample, are Manhattan apartments selling faster in the winter or are lofts in Brooklyn in higher demand during the summer months?
