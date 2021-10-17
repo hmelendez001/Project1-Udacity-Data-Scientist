@@ -7,6 +7,8 @@ In this analysis I employ the CRISP-DM process to answer the following three que
 2. Are older buildings selling better than newer buildings based on location?
 3. Is there a correlation in sales with time of year and square footage for any particular borough? For exmample, are Manhattan apartments selling faster in the winter or are lofts in Brooklyn in higher demand during the summer months?
 
+#### My BLOG is HERE: https://hmelendez001.github.io/2021/10/15/Udacity-Data-Scientist-Nanodegree-Project-1.html
+
 # Libraries Used
 | Library | Description |
 | :--- | :--- |
